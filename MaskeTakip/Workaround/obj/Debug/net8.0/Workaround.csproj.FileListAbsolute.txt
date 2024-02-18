@@ -1,0 +1,14 @@
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.exe
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.deps.json
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.runtimeconfig.json
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.dll
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.pdb
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.AssemblyInfoInputs.cache
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.AssemblyInfo.cs
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.dll
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\obj\Debug\net8.0\refint\Workaround.dll
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.pdb
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.genruntimeconfig.cache
+C:\Users\erdem\Desktop\CSharp Yazılım Geliştirici Yetiştirme Kursu ED 2024\MaskeTakip\Workaround\obj\Debug\net8.0\ref\Workaround.dll
